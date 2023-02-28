@@ -2,7 +2,7 @@
 
 
 
-### I am a Data Analyst, Graduate Chemical Engineer, a Scholar and a Problem Solver.
+### I am a Data Analyst, Chemical Engineering Graduate, Scholar and Problem Solver.
 
 Interesting Facts about me:
 
