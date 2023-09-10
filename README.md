@@ -24,5 +24,4 @@ Interesting Facts about me:
 
 ### Latest Blogs
 - [Impact of Weather on Air Quality](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analytics-with-powerbi-student-project-showcase-impact-on/ba-p/3747374)
-- [Managing Big Data in Clusters and Cloud Storage](https://medium.com/@okonkwoebuka456/managing-big-data-in-clusters-and-cloud-storage-6522df813ba8)
-
+- [Building A Business Database from Scratch](https://medium.com/@okonkwoebuka456/database-design-project-building-a-business-database-from-scratch-9f9b48944f97)
