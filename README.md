@@ -1,5 +1,3 @@
-![MasterHead](https://tdwi.org/-/media/TDWI/TDWI/BITW/charts5.jpg)
-
 ## Hi there 👋 My name is Malcom Okonkwo
 
 
