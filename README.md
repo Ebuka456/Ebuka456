@@ -9,8 +9,8 @@
 
 Interesting Facts about me:
 
-- 🔭 I collect, clean, and analyze data sets to find insights to solve a problem
-- 🌱 I won the DataFest Africa 2022 Hackathon by solving a business problem for a telecommunication company.
+- 🔭 I collect, clean, and analyze datasets to find insights that solve business problems
+- 🌱 I won the DataFest Africa 2022 Hackathon by optimizing the ticketing performance of a telecommunication company.
 - 👯 I’m looking to collaborate with other data professionals to work on real world and make data driven decisions
 - 🤔 I’m looking for help with job opportunites
 - 💬 Ask me about subject relating data analytics
