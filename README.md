@@ -9,7 +9,7 @@
 
 Interesting Facts about me:
 
-- 🔭 I collect, clean, and analyze datasets to find insights that solve business problems
+- 🔭 I'm like a detective for data. I gather, transform, and perform in-depth analysis of datasets to extract actionable insights that provide effective solutions to complex business problems.
 - 🌱 I won the DataFest Africa 2022 Hackathon by optimizing the ticketing performance of a telecommunication company.
 - 👯 I’m looking to collaborate with other data professionals to work on real world and make data driven decisions
 - 🤔 I’m looking for help with job opportunites
