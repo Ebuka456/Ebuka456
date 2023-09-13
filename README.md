@@ -12,7 +12,7 @@ Interesting Facts about me:
 - 🔭 I'm like a detective for data. I gather, transform, and perform in-depth analysis of datasets to extract actionable insights that provide effective solutions to complex business problems.
 - 🌱 I won the DataFest Africa 2022 Hackathon by optimizing the ticketing performance of a telecommunication company.
 - 👯 I’m looking to collaborate with other data professionals to work on real world and make data driven decisions
-- 🤔 I’m looking for help with job opportunites
+- 🤔 I’m open to job opportunites
 - 💬 Ask me about subject relating data analytics
 - 👨‍💻 All of my projects are available at [Portfolio](https://linktr.ee/malcom_okonkwo)
 - 📝 I regularly write articles on [Medium](https://medium.com/@okonkwoebuka456)
