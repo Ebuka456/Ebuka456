@@ -45,6 +45,7 @@ Interesting Facts about me:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuka456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ebuka456" /></p>
 
 ### Latest Blogs
+- [📕 Ribbon Post Launch Performance: A Journey into Product Analytics](https://medium.com/@okonkwoebuka456/ribbon-post-launch-performance-a-journey-into-product-analytics-42e063f23242)
 - [📘 Impact of Weather on Air Quality](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analytics-with-powerbi-student-project-showcase-impact-on/ba-p/3747374)
 - [📗 Building A Business Database from Scratch](https://medium.com/@okonkwoebuka456/database-design-project-building-a-business-database-from-scratch-9f9b48944f97)
 - [📙 The Data Cleaning Challenge: A Twitter Data Analysis Project](https://medium.com/@okonkwoebuka456/the-data-cleaning-challenge-a-twitter-data-analysis-project-c25ae4a32dd3)
