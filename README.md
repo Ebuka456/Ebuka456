@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is Malcom Okonkwo
 
 
-
 ### I am a Data Analyst, Chemical Engineering Graduate, Scholar and Problem Solver.
 
 
