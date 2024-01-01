@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Malcom Okonkwo
 
 
-### I am a Data Analyst, Chemical Engineering Graduate, Scholar and Problem Solver.
+### I am a Data Analyst, Chemical Engineering Graduate and Database Administrator
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
@@ -44,6 +44,7 @@ Interesting Facts about me:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuka456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ebuka456" /></p>
 
 ### Latest Blogs
+- [📔 Database Design II: A Sports Club Booking and Automation System](https://medium.com/@okonkwoebuka456/database-design-ii-a-sports-club-booking-and-automation-system-a8a82d8efda6)
 - [📕 Ribbon Post Launch Performance: A Journey into Product Analytics](https://medium.com/@okonkwoebuka456/ribbon-post-launch-performance-a-journey-into-product-analytics-42e063f23242)
 - [📘 Impact of Weather on Air Quality](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analytics-with-powerbi-student-project-showcase-impact-on/ba-p/3747374)
 - [📗 Building A Business Database from Scratch](https://medium.com/@okonkwoebuka456/database-design-project-building-a-business-database-from-scratch-9f9b48944f97)
